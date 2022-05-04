@@ -1,1 +1,2 @@
 # lbc
+just study
